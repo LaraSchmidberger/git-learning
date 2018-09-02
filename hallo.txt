@@ -1,2 +1,2 @@
 Hallo Lara kann jetzt git!
-Und ein anderer Text!!
+Und ein anderer Text
